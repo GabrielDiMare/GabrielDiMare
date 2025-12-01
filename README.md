@@ -1,4 +1,4 @@
-# Gabriel Di Mare
+# Su di me
 
 Ciao! Sono Gabriel Di Mare, junior full-stack developer e divulgatore culturale di Augusta (SR).  
 Unisco informatica e beni culturali per creare progetti tecnologici che valorizzano il territorio.
