@@ -1,16 +1,24 @@
-## Hi there 👋
+# Gabriel Di Mare
+Ciao! Sono Gabriel Di Mare, junior full-stack developer e divulgatore culturale di Augusta (SR).
+Unisco informatica e beni culturali per creare progetti tecnologici che valorizzano il territorio.
 
-<!--
-**GabrielDiMare/GabrielDiMare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cosa faccio
+* Sviluppo piattaforme digitali per la comunità e privati
+* Creo contenuti storici e informativi
+* Porto avanti iniziative civiche e culturali
+* Lavoro su videogiochi narrativi e progetti creativi
 
-Here are some ideas to get you started:
+## Competenze tecniche
+* Web development
+* Architetture API e micro-servizi
+* GIS e gestione dati territoriali
+* Photoshop e graphic design
+* Documentazione, versionamento, gestione progetti
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatti
+Instagram: gabriel_di.mare
+YouTube: Gabriel Di Mare
+Facebook: gabriel_di.mare
+TikTok: @gabriel_di.mare
+Sito ufficiale: in sviluppo
+
